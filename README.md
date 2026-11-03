@@ -62,3 +62,4 @@ The primary regression analysis, model comparison, cross-validation and hyperpar
 Michael Faraday Otieno
 
 This project is maintained under Git version control.
+Git allows me to track changes and maintain a history of my project.
