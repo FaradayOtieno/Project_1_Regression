@@ -64,3 +64,4 @@ Michael Faraday Otieno
 This project is maintained under Git version control.
 Git allows me to track changes and maintain a history of my project.
 This project is maintained using Git and GitHub for version control.
+This project demonstrates regression modelling using XGBoost.
