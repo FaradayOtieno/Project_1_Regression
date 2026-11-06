@@ -63,3 +63,4 @@ Michael Faraday Otieno
 
 This project is maintained under Git version control.
 Git allows me to track changes and maintain a history of my project.
+This line will be used to practise Git revert.
