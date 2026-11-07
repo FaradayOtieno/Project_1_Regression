@@ -1,0 +1,4 @@
+Model evaluation considerations:
+- Mean Absolute Error (MAE)
+- Root Mean Squared Error (RMSE)
+- R-squared
